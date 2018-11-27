@@ -61,8 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BTN_AB.cs" />
     <Compile Include="Assets\script\BTN_Unit.cs" />
+    <Compile Include="Assets\script\BTN_Vol.cs" />
     <Compile Include="Assets\script\Manage.cs" />
+    <Compile Include="Assets\script\VolData.cs" />
+    <Compile Include="Assets\script\VolManage.cs" />
+    <Compile Include="Assets\volc_match.cs" />
+    <Compile Include="Assets\volc_target.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/libo/Documents/English teach/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
